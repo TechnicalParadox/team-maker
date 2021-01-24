@@ -20,7 +20,7 @@ Follow the instructions to generate your roster.
 
 ![Example of program running in terminal](./demo.png)
 
-[Video](https://youtu.be/CeOLpSch_f8)
+[Video](https://youtu.be/ugbx4D0P9no)
 
 ## Credits
 [Giamo Lao](https://github.com/technicalparadox)
