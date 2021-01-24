@@ -1,9 +1,0 @@
-__tests__/            // jest tests
-  Employee.test.js
-  Engineer.test.js
-  Intern.test.js
-  Manager.test.js
-  Generator.test.js // contains method to generate HTML
-dist/               // rendered output (HTML) and CSS style sheet
-lib/                // classes
-index.js            // runs the application
