@@ -1,8 +1,9 @@
-const sum = require ('../lib/Employee');
+const Employee = require('../lib/Employee.js');
 
 test('Employee is created', () =>
 {
-  const employee = new Employee('John', 0, 'john@email.com');
+  var employee = new Employee('John', 0, 'john@email.com');
+  console.log(employee);
 
   expect(employee.name).toBe('John');
   expect(employee.id).toEqual(0);
