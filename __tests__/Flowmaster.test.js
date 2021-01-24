@@ -9,6 +9,7 @@ test('Flowmaster is created', () =>
   expect(flowmaster instanceof Flowmaster).toBeTruthy();
   expect(flowmaster.state).toEqual(0);
   expect(flowmaster.available).toBeTruthy();
+  expect(flowmaster.finished).toBeFalsy();
   expect(flowmaster.employees).toEqual([]);
 });
 
