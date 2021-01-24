@@ -1,0 +1,23 @@
+{
+  "name": "team-maker",
+  "version": "1.0.0",
+  "description": "a JavaScript team profile generator powered by Node.js and Inquirer",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechnicalParadox/team-maker.git"
+  },
+  "author": "Giamo Lao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TechnicalParadox/team-maker/issues"
+  },
+  "homepage": "https://github.com/TechnicalParadox/team-maker#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "jest": "^26.6.3"
+  }
+}
