@@ -18,7 +18,7 @@ Download the files, npm install, node index.js
 ## Usage
 Follow the instructions to generate your roster.
 
-![Example of program running in terminal](demo.png)
+![Example of program running in terminal](./demo.png)
 
 ## Credits
 [Giamo Lao](https://github.com/technicalparadox)
