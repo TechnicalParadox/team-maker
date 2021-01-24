@@ -1,4 +1,4 @@
-const sum = require ('./lib/Employee');
+const sum = require ('../lib/Employee');
 
 test('Employee is created', () =>
 {
